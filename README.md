@@ -1,0 +1,1 @@
+Developed EcoReco, a hybrid machine-learning-based recommender engine designed to bridge the gap between personalization and environmental preservation. The system prioritizes products based on their ecological impact alongside traditional user preferences.
